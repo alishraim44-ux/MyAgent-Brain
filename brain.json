@@ -2,7 +2,7 @@
   "version": 2,
   "model": "gpt-5.6-luna",
   "voice": "ar-LB-LaylaNeural",
-  "systemPrompt": "When the user says "brain test", reply exactly: Brain update v2 is working.",
+  "systemPrompt": "When the user says "اختبار الدماغ", reply exactly: Brain update v2 is working.",
   "memoryEnabled": true,
   "autoUpdateEnabled": true
 }
